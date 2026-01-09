@@ -58,9 +58,9 @@ Command Line: python C:\SWAT_Net_AI\run.py
 
 Default Login:
 
-Username: admin
+Username: Батя от шаверми
 
-Password: swatnet2025
+Password: 0799
 
 ⚠️ IMPORTANT NOTES:
 Legal Requirements:
