@@ -1,0 +1,13 @@
+{
+  "ai": {
+    "use_openrouter": true,
+    "openrouter_api_key": "",
+    "use_huggingface": true,
+    "use_local_llm": false,
+    "local_llm_url": "http://localhost:8080"
+  },
+  "tor": {
+    "enabled": true,
+    "autostart": true
+  }
+}
